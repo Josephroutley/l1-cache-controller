@@ -5,7 +5,7 @@ This project involves the design of a Direct-Mapped (or Set-Associative) **L1 Ca
 
 It includes an **Arbiter** to manage competing requests from the Instruction Fetch and Data Load/Store units.
 
-## Learning Objectives (NVIDIA Target Skills)
+## Learning Objectives
 * **Computer Architecture:** Understanding Tag, Index, Offset, and Cache Hit/Miss logic.
 * **Arbitration:** Implementing Round-Robin or Fixed-Priority arbitration schemes.
 * **Memory Hierarchy:** Managing the flow of data between fast cache and slow main memory.
